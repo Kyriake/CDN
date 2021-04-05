@@ -4,7 +4,8 @@ A website CDN, crafted with Golang utilising the blazing fast [Fiber](https://gi
 
 ## Prerequisite
 
-Make sure you change the favicon on all the html files and in the main.go file
+- Make sure you change the favicon on all the html files and in the main.go file.
+- Make sure you have [Golang](https://golang.org/dl/) installed
 
 ## Installation
 
