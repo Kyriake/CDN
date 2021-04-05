@@ -29,4 +29,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[AGPL v3](https://choosealicense.com/licenses/agpl-3.0/)
+[AGPL v3](https://github.com/Kyriake/website-cdn/blob/main/LICENSE)
