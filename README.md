@@ -1,12 +1,12 @@
-# CDN
+# @Kyriake/CDN
 
-This is a website cdn that uses golang and a very fast http engine called [Fiber](https://github.com/gofiber/fiber) 
+A website CDN, crafted with Golang utilising the blazing fast [Fiber](https://github.com/gofiber/fiber) module.
 
-## Installation
-
-We are going to be using goland so make sure you have it installed, you can install it [here](https://golang.org/)
+## Prerequisite
 
 Make sure you change the favicon on all the html files and in the main.go file
+
+## Installation
 
 Run the following command:
 ```bash
