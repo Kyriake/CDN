@@ -8,11 +8,14 @@ We are going to be using goland so make sure you have it installed, you can inst
 
 Make sure you change the favicon on all the html files and in the main.go file 
 
-Run the following command!
+Run the following command:
 ```bash
 go get -u /file/directory/
 ```
-
+If you already are in the project directly just simply run:
+```bash
+go get -u
+```
 ## Starting up the webserver
 
 Simply run:
