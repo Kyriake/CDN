@@ -28,7 +28,7 @@ func main() {
 	app.Static("/images", "./images")
 
 	app.Get("/", func(c *fiber.Ctx) error {
-		 return c.SendFile("./home.html")
+		 return c.SendFile("./site/home.html")
 	})
 
 	app.Use(func(c *fiber.Ctx) error {
