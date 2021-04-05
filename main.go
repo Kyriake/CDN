@@ -32,11 +32,11 @@ func main() {
 	})
 
 	app.Use(func(c *fiber.Ctx) error {
-		return c.Status(404).SendFile("./404.html")
+		return c.Status(404).SendFile("./site/404.html")
 	})
 
 	app.Use(func(c *fiber.Ctx) error {
-		return c.Status(401).SendFile("./401.html")
+		return c.Status(401).SendFile("./site/401.html")
 	})
 	log.Fatal(app.Listen("0.0.0.0:3000"))
 }
