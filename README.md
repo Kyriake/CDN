@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/kyriake/cdn/badge)](https://www.codefactor.io/repository/github/kyriake/cdn)
 # @Kyriake/CDN
 
 A website CDN, crafted with Golang utilising the blazing fast [Fiber](https://github.com/gofiber/fiber) module.
